@@ -1,2 +1,2 @@
-# birbvporkpie
-fight bacon with chicken
+# p5.play-boilerplate
+Boiler plate for p5.play
